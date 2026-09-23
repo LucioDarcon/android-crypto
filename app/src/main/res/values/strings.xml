@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">android-mobile-binary-protector</string>
+    <string name="title_login">Login Protector</string>
+    <string name="hint_username">Usuário</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="hint_key">Chave / Usuário</string>
+    <string name="hint_value">Valor</string>
+    <string name="btn_create">Criar</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_remove">Remover</string>
+    <string name="lbl_logs">Logs:</string>
+    <string name="title_shared_preferences">SharedPreferences</string>
+    <string name="title_sqlite">SQLite</string>
+    <string name="title_security">Security</string>
+
+    <!-- Registration Activity Strings -->
+    <string name="title_device_registration">Registro de Dispositivo</string>
+    <string name="hint_device_alias">Identificador / Alias do Dispositivo</string>
+    <string name="hint_message_to_sign">Mensagem para Assinar</string>
+    <string name="btn_register_device">Registrar Dispositivo</string>
+    <string name="btn_delete_registration">Deletar Registro</string>
+    <string name="btn_sign_message">Assinar Mensagem</string>
+    <string name="lbl_status">Status:</string>
+    <string name="lbl_public_key">Chave Pública (Base64):</string>
+    <string name="lbl_signature">Assinatura Gerada (Base64):</string>
+
+    <!-- Crypto Activity Strings -->
+    <string name="title_crypto">Criptografia de Dados (KeyStore)</string>
+    <string name="hint_plain_text">Texto Simples para Criptografar</string>
+    <string name="btn_encrypt">Criptografar (Chave Pública)</string>
+    <string name="btn_decrypt">Decriptografar (Chave Privada)</string>
+    <string name="lbl_encrypted_result">Resultado Criptografado (Base64):</string>
+    <string name="lbl_decrypted_result">Resultado Decriptografado:</string>
+</resources>
